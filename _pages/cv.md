@@ -9,9 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Full CV
-======
-
 📄 **[Download my CV (PDF)](/files/CV_mayuharada.pdf)**
 
 Education
@@ -51,6 +48,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
