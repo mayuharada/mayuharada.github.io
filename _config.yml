@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Mayu Harada"
 title_separator          : "-"
-name                     : &name "Mayu Harada"
+name                     : &name "Mayu Harada | 原田茉優"
 description              : &description "Academic website of Mayu Harada"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://mayuharada.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
