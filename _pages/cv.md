@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+Full CV
+======
+
+📄 **[Download my CV (PDF)](/files/CV_mayuharada.pdf)**
+
 Education
 ======
 * B.S. in Biology, Kyoto University, 2027 (expected)
